@@ -6,8 +6,24 @@ using System.Threading.Tasks;
 
 namespace Blockcraft
 {
-    internal class Jugador
+    public class Jugador
     {
+        private Arma arma;
 
+        public Jugador(Arma arma)
+        {
+            this.arma = arma;  
+        }
+
+        public void cambiarArma(Arma arma)
+        {
+            this.arma = arma;
+        }
+
+        public void atacar(Enemigo enemigo)
+        {
+            this.arma.atacar(enemigo);
+        }
+    
     }
 }

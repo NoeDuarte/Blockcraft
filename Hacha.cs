@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Blockcraft
 {
-    internal interface Arma
+    public class Hacha : Arma
     {
-        public void atacar()
+	public void atacar(Enemigo enemigo)
         {
-	    public void atacar(Enemigo enemigo);
+            enemigo.ActualizarVida(20);
         }
     }
 }

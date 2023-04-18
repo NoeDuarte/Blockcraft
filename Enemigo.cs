@@ -6,26 +6,21 @@ using System.Threading.Tasks;
 
 namespace Blockcraft
 {
-    internal class Enemigo
+    public class Enemigo
     {
-        private Arma arma;
+      
         private int vida;
 
-        public Enemigo(Arma arma, int vida)
+        public Enemigo(int vida)
         {
 
-            this.arma = arma;
-            this.vida = vida;
+             this.vida = vida;
 
         }
 
-        public double ataque(int vida, Arma arma)
+        public void ActualizarVida(int danio)
         {
-            double nuevaVida;
-
-            return 0;
-
-
+            this.vida -=danio;
         }
     }
 }
