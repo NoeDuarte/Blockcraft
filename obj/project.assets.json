@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\Blockcraft.csproj",
+      "projectUniqueName": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\Blockcraft\\Blockcraft.csproj",
       "projectName": "Blockcraft",
-      "projectPath": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\Blockcraft.csproj",
+      "projectPath": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\Blockcraft\\Blockcraft.csproj",
       "packagesPath": "C:\\Users\\Noelia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\obj\\",
+      "outputPath": "C:\\Users\\Noelia\\Documents\\GitHub\\Blockcraft\\Blockcraft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
