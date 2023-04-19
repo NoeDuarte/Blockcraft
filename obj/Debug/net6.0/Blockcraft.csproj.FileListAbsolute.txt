@@ -1,0 +1,15 @@
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.csproj.AssemblyReference.cache
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.AssemblyInfoInputs.cache
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.AssemblyInfo.cs
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\Documents\GitHub\Blockcraft\bin\Debug\net6.0\Blockcraft.exe
+C:\Users\Noelia\Documents\GitHub\Blockcraft\bin\Debug\net6.0\Blockcraft.deps.json
+C:\Users\Noelia\Documents\GitHub\Blockcraft\bin\Debug\net6.0\Blockcraft.runtimeconfig.json
+C:\Users\Noelia\Documents\GitHub\Blockcraft\bin\Debug\net6.0\Blockcraft.dll
+C:\Users\Noelia\Documents\GitHub\Blockcraft\bin\Debug\net6.0\Blockcraft.pdb
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.dll
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\refint\Blockcraft.dll
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.pdb
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\Blockcraft.genruntimeconfig.cache
+C:\Users\Noelia\Documents\GitHub\Blockcraft\obj\Debug\net6.0\ref\Blockcraft.dll
